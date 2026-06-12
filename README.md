@@ -2,7 +2,7 @@
 
 A free, self-contained position sizing calculator for swing traders. One HTML file, zero dependencies, works offline.
 
-**Live:** https://YOUR-USERNAME.github.io/rcalc/
+**Live:** https://vinthomas1.github.io/rcalc/
 
 ## What it does
 
